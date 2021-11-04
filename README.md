@@ -2,7 +2,6 @@
 
 - 🔭 Atualmete trabalho com desenvolvimento mobile.
 - 🌱 Estudando Spring, Machine Learning e alguns mistérios da matemática.
-- 🤔 Me ajude a entender  ...
 - 💬 Vamos falar sobre cosmos e corridas?
 - 😄 Pronomes: ele/dele
 - ⚡ Fato engraçado: toco violão a 15 anos, mas não sei tocar violão 🎸.
