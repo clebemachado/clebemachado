@@ -18,7 +18,7 @@ Map<String,dynamic> person = {
  
  "University_graduate" : {
     "university": "UFMA",
-    "course" : "Engenharia da Computação",
+    "course" : "BICT - Engenharia da Computação",
     "status" : "In progress"
  }
  
