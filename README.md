@@ -7,7 +7,8 @@
 ```Dart
 Map<String,dynamic> person = {
  "name" : "Clebson Mendonça Machado da Silva",
- "currently_studying"  : "Flutter, flask, fast api e outras coisinhas legais",
+ "currently_studying"  : "Flutter, flask, fast api e /n
+ outras coisinhas legais",
  "interest" : "Desenvolvimento mobile & BackEnd com Python",
  "languages" : ["Python", "Java", "Dart"],
  "languagesToLearn" : ["Golang", "Kotlin", "E JAVA é claro"],
