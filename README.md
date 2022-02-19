@@ -6,13 +6,21 @@
 
 ```Dart
 Map<String,dynamic> person = {
+
  "name" : "Clebson Mendonça Machado da Silva",
+ 
  "currently_studying"  : "Flutter, flask, fast api e /n
  outras coisinhas legais",
  "interest" : "Desenvolvimento mobile & BackEnd com Python",
+ 
  "languages" : ["Python", "Java", "Dart"],
  "languagesToLearn" : ["Golang", "Kotlin", "E JAVA é claro"],
- "other" : "vamos falar de corrida ? 💬",
+ 
+ "University_graduate" : {
+    "university": "UFMA",
+    "course" : "Engenharia da Computação",
+    "status" : "In progress"
+ }
  
 }
 ```
